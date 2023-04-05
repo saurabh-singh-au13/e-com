@@ -1,0 +1,13 @@
+
+  .scrolling-text {
+    display: inline-block;
+    padding-right: 20px;
+    color: red;
+    background-color: aquamarine;
+    /* text-align: center; */
+    justify-content: center;
+    height: 30px;
+    
+
+
+  }
